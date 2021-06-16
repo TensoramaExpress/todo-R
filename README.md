@@ -1,2 +1,2 @@
 # todo-R
- small project with R
+ small projects with R and Python
